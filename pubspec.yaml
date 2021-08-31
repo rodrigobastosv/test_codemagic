@@ -1,0 +1,44 @@
+name: friends_bee
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  another_flushbar: ^1.10.24
+  bottom_bar: ^1.2.4
+  carousel_slider: ^4.0.0
+  contained_tab_bar_view: ^0.8.0
+  copy_with_extension: ^2.0.2
+  country_pickers: ^2.0.0
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.2.0
+  flutter_spinkit: ^5.0.0
+  json_annotation: ^4.0.0
+  mask_text_input_formatter: ^2.0.0
+  pinput: ^1.2.0
+  rive_loading: ^0.1.0
+
+dev_dependencies:
+  build_runner: ^2.1.1
+  copy_with_extension_gen: ^2.0.2
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^4.0.0
+  lint: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/images/
+    - assets/animations/

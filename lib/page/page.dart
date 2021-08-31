@@ -1,0 +1,16 @@
+export 'company_association/company_association_page.dart';
+export 'config_notifications/config_notifications_page.dart';
+export 'confirm_access_code/confirm_access_code_page.dart';
+export 'confirm_cpf/confirm_cpf.dart';
+export 'confirm_phone/confirm_phone_page.dart';
+export 'cvv/cvv_page.dart';
+export 'error/error_page.dart';
+export 'faq/faq_page.dart';
+export 'main/main_page.dart';
+export 'no_connection/no_connection_page.dart';
+export 'profile/profile_page.dart';
+export 'sign_in/sign_in_page.dart';
+export 'sign_up/sign_up.dart';
+export 'sms_validation/sms_validation_page.dart';
+export 'terms_and_policies/terms_and_policies_page.dart';
+export 'welcome/welcome_page.dart';

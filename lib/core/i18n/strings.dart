@@ -1,0 +1,97 @@
+class Strings {
+  static String welcome = 'olá, que bom ter você aqui!';
+  static String welcomeAgain = 'que bom ter você aqui de novo!';
+  static String phoneConfirm = 'precisamos confirmar seu telefone';
+  static String cool = 'que legal!';
+  static String requiredField = 'campo obrigatório';
+  static String invalidEmail = 'email inválido';
+  static String exclusiveContentAccess = 'você terá acesso a conteúdos exclusivos!';
+  static String almostThere = 'falta pouco!';
+  static String smsSend = 'enviamos um SMS para';
+  static String emailSend = 'enviamos um email para';
+  static String accessCode = 'com código de acesso, digite ele aqui';
+  static String accessChange = 'nosso acesso vai mudar em breve e você só poderá acessar pelo telefone ou beename';
+  static String didNotReceiveCode = 'não recebi o código, envie de novo';
+  static String goOn = 'seguir';
+  static String signIn = 'entrar';
+  static String signInFormFieldHint = 'acesse com seu beename, telefone ou email';
+  static String signUp = 'cadastre-se';
+  static String agree = 'concordo';
+  static String more = 'mais';
+  static String ops = 'ops';
+  static String enter = 'entrar';
+  static String hive = 'colmeia';
+  static String justOneMoreThing = 'só mais uma coisinha';
+  static String yourIdIsConfidential = 'sua identidade é confidencial';
+  static String secureInfoMessage = 'o que acontece na friendsBee, fica na friendsBee! não revelamos sua identidade para ninguém';
+  static String companyAssociationQuestion = 'você trabalha em alguma empresa parceira? isso lhe dará acesso a conteúdo exclusivo!';
+  static String workAtPartnerCompany = 'sim, trabalho em empresas parceiras';
+  static String doNotWorkAtPartnerCompany = 'não trabalho em empresas parceiras';
+  static String doNotKnowIfCompanyPartner = 'não sei se minha empresa é parceira';
+  static String sendEmailAndEnter = 'enviar email e entrar na friendsBee';
+  static String enterOpenFb = 'entrar na friendsBee aberta';
+  static String invalidCode = 'código inválido, verifique se o número foi digitado corretamente';
+  static String password = 'senha';
+  static String editCpf = 'editar o CPF informado';
+  static String corporativeEmail = 'qual o seu email corporativo?';
+  static String noAccount = 'não tem conta?';
+  static String confirmCellphone = 'confirmar seu telefone';
+  static String whatCellphone = 'qual seu telefone celular?';
+  static String whatPassword = 'qual sua senha?';
+  static String whatCpf = 'qual o seu CPF?';
+  static String confirmCpf = 'confirmar meu CPF';
+  static String confirmCellphoneNumber = 'confirmar meu número';
+  static String next = 'prosseguir';
+  static String whyConfirmCellphone = 'por que preciso confirmar meu número?';
+  static String whyUseCellphone = 'por que preciso usar meu número?';
+  static String verifyNumberAndSignal = 'verifique se seu telefone está com sinal para receber SMS e se seu número de telefone está correto';
+  static String forgotPassword = 'esqueci minha senha';
+  static String whyCreateAccount = 'por que preciso criar uma conta?';
+  static String cookiesPolicy = 'política de cookies';
+  static String cookiesPolicyDescription =
+      '''este site utiliza cookies e tecnologias semelhantes para personalizar publicidade e recomendar contedo de seu interesse. ao navegar em nosso servio voc aceita tal monitoramento.''';
+  static String termsAndPolicies = 'políticas e termos';
+  static String seeTermsAndPolicies = 'ver políticas e termos';
+  static String seePrivacyPolicies = 'ver políticas de privacidade';
+  static String exclusiveArea =
+      'essa é uma área exclusiva para colaboradores de empresas parceira';
+  static String useFaqForQuestions = 'tire suas dúvidas no nosso FAQ';
+  static String noConnectionQuestion = 'cadê sua internet? seu 4G?';
+  static String verifyConnection = 'verifique sua conexão e tente novamente';
+  static String tryAgain = 'tentar novamente';
+  static String somethingWentWrong = 'alguma coisa deu errado';
+  static String backToHome = 'voltar para home';
+  static String cpfNotFound = 'CPF não encontrado. verifique se o número foi digitado corretamente e, em caso positivo, insira seu email corporativo para acionar o RH e ativar seu benefício.';
+  static String registerMood = 'registre seu humor';
+  static String followEvolution = 'acompanhe sua evolução ao longo do tempo e se conheça melhor';
+  static String howAreYouToday = 'como você esta se sentindo hoje?';
+  static String enterCpfOrRecomendFb = 'entre com o seu CPF ou recomende a friendsBee para a sua empresa!';
+  static String enterCpf = 'entrar com meu CPF';
+  static String recomendForMyCompany = 'recomendar para a minha empresa';
+  static String home = 'home';
+  static String aboutMe = 'sobre mim';
+  static String notifications = 'notificações';
+  static String cvv = 'Centro de Valorização da Vida';
+  static String callCvv = 'ligar para o cvv';
+  static String cvvInfo = 'Realiza apoio emocional e prevenção do suicídio, atendendo voluntária e gratuitamente todas as pessoas que querem e precisam conversar, sob total sigilo por telefone, email e chat 24 horas todos os dias.';
+  static String newTest = 'novo teste';
+  static String newPost = 'novo post';
+  static String newContribution = 'nova contribuição no seu desabafo';
+  static String newContributionResponse = 'nova resposta à sua contribuição';
+  static String newContributionReaction = 'nova reação à sua contribuição';
+  static String gratitudeFlower = 'flor da gratidão';
+  static String interactionBlocked = 'interação bloqueada ou denunciada';
+  static String resendCodeSuccess = 'Código reenviado com sucesso!';
+  static String errorResendCode = 'Erro ao reenviar novo código!';
+  static String tryAgainLater = 'Tente novamente em instantes.';
+  static String theBeename = 'o beename';
+  static String likedYour = 'curtiu seu';
+  static String comment = 'comentário';
+  static String onYour = 'no seu';
+  static String dilemma = 'desabafo';
+
+  static String fakeText = '''
+      The mathematics that is involved is particularly simple, involving simple algebraic operations and no differential equations or at most only very simple ones. The only problem is that we must jump the gap of no longer being able to describe the behavior in detail of particles in space. So this is what we are going to try to do: to tell you about what conventionally would be called the “advanced” parts of quantum mechanics. But they are, we assure you, by all odds the simplest parts—in a deep sense of the word—as well as the most basic parts. This is frankly a pedagogical experiment; it has never been done before, as far as we know.
+        
+        The only problem is that we must jump the gap of no longer being able to describe the behavior in detail of particles in space. So this is what we are going to try to do: to tell you about what conventionally would be called the “advanced” parts of quantum mechanics. But they are, we assure you, by all odds the simplest parts—in a deep sense of the word—as well as the most basic parts. This is frankly a pedagogical experiment; it has never been done before, as far as we know.''';
+}
